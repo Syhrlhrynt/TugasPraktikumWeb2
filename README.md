@@ -192,7 +192,7 @@ MATA KULIAH : PEMOGRAMAN WEB 2
 ## Lab3 PHP DATABASE
 
 ![Screenshot (121)](https://github.com/Syhrlhrynt/TugasPraktikumWeb2/assets/129706370/9c4564da-53ac-4dff-8940-6648c105171a)
-![Screenshot (122)](https://github.com/Syhrlhrynt/TugasPraktikumWeb2/assets/129706370/65b6831c-b1b2-4fd2-83f0-8b0e428cef69)
+
 
 > Koneksi
 
