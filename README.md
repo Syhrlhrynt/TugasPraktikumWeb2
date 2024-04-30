@@ -185,9 +185,18 @@ MATA KULIAH : PEMOGRAMAN WEB 2
 </body>
 </html>
 ```
+## Hasil Run
+
+![Screenshot (140)](https://github.com/Syhrlhrynt/TugasPraktikumWeb2/assets/129706370/a5601976-efb7-484a-8779-8c5fe0111243)
+
 ## Lab3 PHP DATABASE
 
+![Screenshot (121)](https://github.com/Syhrlhrynt/TugasPraktikumWeb2/assets/129706370/9c4564da-53ac-4dff-8940-6648c105171a)
+![Screenshot (122)](https://github.com/Syhrlhrynt/TugasPraktikumWeb2/assets/129706370/65b6831c-b1b2-4fd2-83f0-8b0e428cef69)
+
 > Koneksi
+
+![Screenshot (123)](https://github.com/Syhrlhrynt/TugasPraktikumWeb2/assets/129706370/beb624a9-f910-4ae0-b2ec-802125510e05)
 
 <?php
 $host = "localhost";
