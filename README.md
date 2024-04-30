@@ -121,6 +121,11 @@ MATA KULIAH : PEMOGRAMAN WEB 2
 
 # Hasil Run
 
+![Screenshot (137)](https://github.com/Syhrlhrynt/TugasPraktikumWeb2/assets/129706370/cb1c96e5-a110-4d88-95a3-3287e118dd44)
+![Screenshot (138)](https://github.com/Syhrlhrynt/TugasPraktikumWeb2/assets/129706370/c5b79ef9-8151-4d73-ae78-73e0a7bd6336)
+![Screenshot (139)](https://github.com/Syhrlhrynt/TugasPraktikumWeb2/assets/129706370/cbdf2774-dc7d-4b4e-a150-9c9802df84aa)
+
+
 # Tugas Form Input
 ```
 <!DOCTYPE html>
