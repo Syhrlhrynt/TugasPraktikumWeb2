@@ -44,8 +44,8 @@ MATA KULIAH : PEMOGRAMAN WEB 2
     ?>
     <h2>Menggunakan variable</h2>
     <?php
-    $nim = "312210581";
-    $nama = 'Tyanshi Firli Maharani';
+    $nim = "312210668";
+    $nama = 'Syahril Haryanto';
     echo "NIM : " . $nim . "<br>";
     echo "Nama : $nama";
     ?>
